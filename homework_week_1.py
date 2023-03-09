@@ -1,4 +1,4 @@
-# ------------------------------------Ödev1-----------------------------------------------------------
+# ------------------------------------Soru1-----------------------------------------------------------
 # ###Python Veri Tipleri
 # # str:günlük hayattakiki kelimeler,cümleler ya da karakterler için kullanılabilir ama "" yazılan herşeri string yani str kabul edilir.
 # str_ornek="Kodlama.io 1.ödev"
@@ -30,7 +30,7 @@
 # print(type(a))
 
 
-# ------------------------------------Ödev2-----------------------------------------------------------
+# ------------------------------------Soru2-----------------------------------------------------------
 # #  Kodlama.io sitesinden veri tipi örnekleri
 # # İçinde "Kurslarım","Tüm Kurslar","Kariyer","Sık Sorular Sorular" stringleri içeren bir liste olabilir
 # icerik=["Tüm Kurslar","Kariyer","Sık Sorular Sorular"]
@@ -40,6 +40,8 @@
 # ilerleme_orani=15.0
 # print(f"Kursun tamamlanma orani {ilerleme_orani}%")
 # telefon_no=input("Telefon Numarası Giriniz:")
+
+# ------------------------------------Soru3-----------------------------------------------------------
 
 # # kariyer formunda bir if yapısı olabilir (Gerçek olmaya ifadeler içerebilir!!)
 # is_ariyor_mu=input("iş arıyor mu?(evet/hayır)")
