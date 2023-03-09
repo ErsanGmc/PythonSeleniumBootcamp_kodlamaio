@@ -43,7 +43,7 @@
 
 # ------------------------------------Soru3-----------------------------------------------------------
 
-# # kariyer formunda bir if yapısı olabilir (Gerçek olmaya ifadeler içerebilir!!)
+# # # kariyer formunda bir if yapısı olabilir (Gerçek olmaya ifadeler içerebilir!!)
 # is_ariyor_mu=input("iş arıyor mu?(evet/hayır)")
 # mezun_mu=input("mezun  mu ?(evet/hayır)")
 # sehir=input("Sehrinizi giriniz:")
@@ -54,3 +54,16 @@
 #     print("Malesef bize mezun ve 40 yıllık tecrübeli programcı lazım")
 # else:
 #     print("Başvurunuz alınamadı")
+
+# _______________________Odev2_____________________________
+# # döngü ile liste içineki elemanlı yazdırma
+# ogrenciler = ["eren" , "ahmet", "mehmet" , "azra" , "elif"]
+# for element in ogrenciler:
+#     print(element)
+
+
+# Amaç : Dizilerin anlaşılması
+# Ödev Talimatları ;
+# hepsiburada.com sitesine gidiniz.
+# Burada dizi verisi olarak tutulabilecek yerler nerelerdir? İsterseniz ekran görüntüsüyle cevabınızı çizip atabilirsiniz.
+# kategoriler={"elektronik":["pc,televisyon,etc"],"giyim":["erkek","kadın","cocuk"]}
